@@ -1,0 +1,24 @@
+h1{
+	background-color: black;
+	color: white;
+}
+
+p{
+	font-size: 22px;
+	font-family: Verdana;
+}
+
+img{
+	height: 250px;
+	width: 400px;
+}
+
+p{
+	color: white;
+	font-size: 18px;
+}
+
+div{
+	background-image: url('bg2.jfif');
+	height: 500px;
+}
